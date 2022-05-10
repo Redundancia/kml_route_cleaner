@@ -6,6 +6,8 @@ This python script parses a kml file, tries to clear up incorrect data, creates 
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 
+Dependancies: haversine==2.5.1
+
 ```bash
 pip install -r requirements.txt
 ```
